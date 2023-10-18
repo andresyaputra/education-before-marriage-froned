@@ -1,0 +1,1266 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 769px;
+}
+
+.label {
+  width: 587px;
+  height: 120px;
+}
+
+.label .PERNIKAHAN-apakah {
+  position: absolute;
+  width: 587px;
+  top: 177px;
+  left: 77px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .group {
+  position: absolute;
+  width: 210px;
+  height: 53px;
+  top: 486px;
+  left: 66px;
+}
+
+.home .overlap-group {
+  position: relative;
+  width: 208px;
+  height: 53px;
+  background-color: #08e1c5;
+  border-radius: 5px;
+}
+
+.home .text-wrapper {
+  position: absolute;
+  width: 169px;
+  top: 13px;
+  left: 19px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .image {
+  position: absolute;
+  width: 447px;
+  height: 436px;
+  top: 178px;
+  left: 907px;
+  object-fit: cover;
+}
+
+.home .siap-nikah-adalah {
+  position: absolute;
+  width: 668px;
+  top: 312px;
+  left: 76px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--text-black);
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.overlap {
+  position: absolute;
+  width: 100%;
+  height: 79px;
+  top: 0;
+  left: 50px;
+  background-color: #08e1c5;
+
+  
+  
+}
+
+.icon-celebrate-rings {
+  position: absolute;
+  width: 44px;
+  height: 40px;
+  top: 19px;
+  left: 56px;
+  background-image: url(./img/logo.svg);
+  background-size: 100% 100%;
+}
+.links {
+  display: flex;
+  width: 589px;
+  align-items: center;
+  gap: 35px;
+  padding: 0px 30px;
+  position: absolute;
+  top: 27px;
+  left: 109px;
+  text-decoration: none;
+}
+.hero-sections-nav {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 6px;
+}
+
+.text {
+  color: var(--text-black);
+  font-size: 21px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.text-2 {
+  color: var(--text-black);
+  font-size: 20px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.text-3 {
+  color: #1e1e1e;
+  font-size: 20px;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+ .div-wrapper {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -25px;
+  border-radius: 6px;
+}
+
+ .btn-signup {
+  position: absolute;
+  width: 226px;
+  height: 50px;
+  top: 14px;
+  left: 1160px;
+}
+
+ .overlap-2 {
+  position: absolute;
+  width: 122px;
+  height: 50px;
+  top: 0;
+  left: 100px;
+  background-color: #039280;
+  border-radius: 10px;
+}
+
+ .text-wrapper-2 {
+  position: absolute;
+  top: 11px;
+  left: 26px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.text-wrapper-3 {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #050505;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.links a {
+  text-decoration: none;
+  color: var(--text-black);
+  font-size: 20px;
+}
+.btn-signup a{
+  text-decoration: none;
+  color: var(--text-black);
+  font-size: 20px;
+}
+
+.artikel {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.artikel .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1980px;
+  position: relative;
+}
+
+.artikel .text-wrapper {
+  position: absolute;
+  top: 287px;
+  left: 507px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.artikel .p {
+  position: absolute;
+  top: 960px;
+  left: 507px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.artikel .text-wrapper-2 {
+  position: absolute;
+  top: 1630px;
+  left: 507px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.artikel .text-wrapper-3 {
+  position: absolute;
+  top: 628px;
+  left: 155px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.artikel .text-wrapper-4 {
+  position: absolute;
+  top: 1298px;
+  left: 155px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.artikel .image {
+  top: 288px;
+  left: 155px;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.artikel .img {
+  top: 961px;
+  left: 155px;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.artikel .image-2 {
+  top: 1631px;
+  left: 155px;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.artikel .image-3 {
+  top: 621px;
+  left: 968px;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.artikel .image-4 {
+  top: 1299px;
+  left: 968px;
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.artikel .text-wrapper-5 {
+  position: absolute;
+  width: 767px;
+  top: 342px;
+  left: 507px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artikel .text-wrapper-6 {
+  position: absolute;
+  width: 767px;
+  top: 1015px;
+  left: 507px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artikel .text-wrapper-7 {
+  position: absolute;
+  width: 767px;
+  top: 1685px;
+  left: 507px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artikel .text-wrapper-8 {
+  position: absolute;
+  width: 767px;
+  top: 683px;
+  left: 155px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artikel .perbedaan-dalam {
+  position: absolute;
+  width: 767px;
+  top: 1353px;
+  left: 155px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.artikel .group-2 {
+  position: absolute;
+  width: 1108px;
+  height: 51px;
+  top: 184px;
+  left: 163px;
+}
+
+.artikel .overlap-3 {
+  position: absolute;
+  width: 944px;
+  height: 51px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: #000000;
+}
+
+.artikel .text-wrapper-11 {
+  position: absolute;
+  width: 515px;
+  top: -10px;
+  left: 4px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #a0a0a0;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.artikel .cari {
+  position: absolute;
+  width: 131px;
+  height: 51px;
+  top: 0;
+  left: 977px;
+}
+
+.artikel .overlap-group-2 {
+  position: relative;
+  width: 129px;
+  height: 51px;
+  background-color: #08e1c5;
+  border-radius: 5px;
+}
+
+.artikel .text-wrapper-12 {
+  position: absolute;
+  width: 53px;
+  top: 12px;
+  left: 64px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.artikel .group-3 {
+  position: absolute;
+  width: 24px;
+  height: 25px;
+  top: 14px;
+  left: 19px;
+}
+
+
+.test {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.test .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 778px;
+  position: relative;
+}
+
+.test .text-wrapper {
+  position: absolute;
+  top: 159px;
+  left: 462px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.test .group {
+  position: absolute;
+  width: 445px;
+  height: 70px;
+  top: 265px;
+  left: 171px;
+}
+
+.test .overlap-group {
+  position: relative;
+  width: 443px;
+  height: 70px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+}
+
+.test .text-wrapper-2 {
+  position: absolute;
+  width: 389px;
+  top: 24px;
+  left: 30px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.test .overlap-wrapper {
+  position: absolute;
+  width: 445px;
+  height: 70px;
+  top: 265px;
+  left: 824px;
+}
+
+.test .text-wrapper-3 {
+  position: absolute;
+  width: 393px;
+  top: 24px;
+  left: 29px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.test .overlap-group-wrapper {
+  position: absolute;
+  width: 445px;
+  height: 70px;
+  top: 549px;
+  left: 824px;
+}
+
+.test .text-wrapper-4 {
+  position: absolute;
+  width: 429px;
+  top: 24px;
+  left: 3px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.test .div-wrapper {
+  position: absolute;
+  width: 445px;
+  height: 70px;
+  top: 549px;
+  left: 171px;
+}
+
+.test .text-wrapper-5 {
+  position: absolute;
+  width: 371px;
+  top: 24px;
+  left: 54px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.test .group-2 {
+  position: absolute;
+  width: 617px;
+  height: 70px;
+  top: 410px;
+  left: 414px;
+}
+
+.test .overlap {
+  position: relative;
+  width: 615px;
+  height: 70px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+}
+
+.test .text-wrapper-6 {
+  position: absolute;
+  width: 594px;
+  top: 24px;
+  left: 9px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 34px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.test .group-3 {
+  position: absolute;
+  width: 212px;
+  height: 47px;
+  top: 695px;
+  left: 615px;
+}
+
+.test .overlap-2 {
+  position: relative;
+  width: 210px;
+  height: 47px;
+  background-color: #03c9af;
+  border-radius: 3px;
+}
+
+.test .text-wrapper-7 {
+  position: absolute;
+  width: 191px;
+  top: 5px;
+  left: 11px;
+  font-family: var(--button-text-font-family);
+  font-weight: var(--button-text-font-weight);
+  color: #ffffff;
+  font-size: var(--button-text-font-size);
+  text-align: center;
+  letter-spacing: var(--button-text-letter-spacing);
+  line-height: var(--button-text-line-height);
+  font-style: var(--button-text-font-style);
+}
+
+.test .icon-celebrate-rings {
+  position: absolute;
+  width: 44px;
+  height: 40px;
+  top: 19px;
+  left: 56px;
+  background-image: url(./img/logo.svg);
+  background-size: 100% 100%;
+}
+.konsultasi {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.konsultasi .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 1806px;
+  position: relative;
+}
+
+.konsultasi .text-wrapper {
+  position: absolute;
+  width: 203px;
+  top: 142px;
+  left: 602px;
+  font-family: "Poppins-Bold", Helvetica;
+  font-weight: 700;
+  color: var(--text-black);
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.konsultasi .group {
+  position: absolute;
+  width: 341px;
+  height: 468px;
+  top: 237px;
+  left: 142px;
+}
+
+.konsultasi .overlap-group {
+  position: relative;
+  width: 335px;
+  height: 468px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 30px #00000040;
+}
+
+.konsultasi .text-wrapper-2 {
+  position: absolute;
+  top: 439px;
+  left: 128px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #948c8c;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.konsultasi .img-wrapper {
+  position: absolute;
+  width: 335px;
+  height: 361px;
+  top: 0;
+  left: 0;
+  border-radius: 10px 10px 0px 0px;
+  background: linear-gradient(180deg, rgb(21, 243, 176.4) 0%, rgb(251, 229, 229) 100%);
+}
+
+.konsultasi .asian-female-doctor {
+  position: absolute;
+  width: 271px;
+  height: 323px;
+  top: 38px;
+  left: 36px;
+}
+
+.konsultasi .text-wrapper-3 {
+  position: absolute;
+  top: 381px;
+  left: 62px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--variable-collection-teks-primary);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.konsultasi .text-wrapper-4 {
+  left: 129px;
+  position: absolute;
+  top: 412px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--variable-collection-teks-primary);
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.konsultasi .star {
+  left: 112px;
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 438px;
+}
+
+.konsultasi .group-wrapper {
+  position: absolute;
+  width: 665px;
+  height: 168px;
+  top: 324px;
+  left: 510px;
+}
+
+.konsultasi .overlap-group-wrapper {
+  width: 667px;
+  height: 168px;
+}
+
+.konsultasi .div-wrapper {
+  position: relative;
+  width: 665px;
+  height: 168px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.konsultasi .p {
+  position: absolute;
+  width: 624px;
+  top: 5px;
+  left: 9px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.konsultasi .span {
+  font-weight: 700;
+}
+
+.konsultasi .text-wrapper-5 {
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.konsultasi .text-wrapper-6 {
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+}
+
+.konsultasi .overlap {
+  position: absolute;
+  width: 200px;
+  height: 55px;
+  top: 517px;
+  left: 510px;
+  background-color: #00bfa6;
+  border-radius: 10px;
+}
+
+.konsultasi .text-wrapper-7 {
+  position: absolute;
+  width: 173px;
+  top: 11px;
+  left: 14px;
+  font-family: var(--button-text-font-family);
+  font-weight: var(--button-text-font-weight);
+  color: #ffffff;
+  font-size: var(--button-text-font-size);
+  text-align: center;
+  letter-spacing: var(--button-text-letter-spacing);
+  line-height: var(--button-text-line-height);
+  font-style: var(--button-text-font-style);
+}
+
+.konsultasi .overlap-wrapper {
+  position: absolute;
+  width: 341px;
+  height: 468px;
+  top: 728px;
+  left: 142px;
+}
+
+.konsultasi .woman-doctor-wearing {
+  position: absolute;
+  width: 251px;
+  height: 323px;
+  top: 38px;
+  left: 32px;
+}
+
+.konsultasi .text-wrapper-8 {
+  position: absolute;
+  top: 439px;
+  left: 135px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #948c8c;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.konsultasi .text-wrapper-9 {
+  position: absolute;
+  top: 381px;
+  left: 105px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--variable-collection-teks-primary);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.konsultasi .text-wrapper-10 {
+  left: 136px;
+  position: absolute;
+  top: 412px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--variable-collection-teks-primary);
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.konsultasi .img {
+  left: 119px;
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 438px;
+}
+
+.konsultasi .group-2 {
+  position: absolute;
+  width: 665px;
+  height: 168px;
+  top: 812px;
+  left: 509px;
+}
+
+.konsultasi .overlap-2 {
+  position: absolute;
+  width: 200px;
+  height: 55px;
+  top: 1003px;
+  left: 509px;
+  background-color: #00bfa6;
+  border-radius: 10px;
+}
+
+.konsultasi .text-wrapper-11 {
+  left: 14px;
+  position: absolute;
+  width: 173px;
+  top: 12px;
+  font-family: var(--button-text-font-family);
+  font-weight: var(--button-text-font-weight);
+  color: #ffffff;
+  font-size: var(--button-text-font-size);
+  text-align: center;
+  letter-spacing: var(--button-text-letter-spacing);
+  line-height: var(--button-text-line-height);
+  font-style: var(--button-text-font-style);
+}
+
+.konsultasi .group-3 {
+  position: absolute;
+  width: 665px;
+  height: 168px;
+  top: 1312px;
+  left: 509px;
+}
+
+.konsultasi .group-4 {
+  position: absolute;
+  width: 341px;
+  height: 468px;
+  top: 1228px;
+  left: 137px;
+}
+
+.konsultasi .cheerful-male-doctor {
+  position: absolute;
+  width: 268px;
+  height: 311px;
+  top: 50px;
+  left: 46px;
+}
+
+.konsultasi .text-wrapper-12 {
+  position: absolute;
+  top: 381px;
+  left: 99px;
+  font-family: "Roboto-SemiBold", Helvetica;
+  font-weight: 600;
+  color: var(--variable-collection-teks-primary);
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.konsultasi .overlap-3 {
+  position: absolute;
+  width: 200px;
+  height: 55px;
+  top: 1503px;
+  left: 509px;
+  background-color: #00bfa6;
+  border-radius: 10px;
+}
+
+.konsultasi .text-wrapper-13 {
+  left: 13px;
+  position: absolute;
+  width: 173px;
+  top: 12px;
+  font-family: var(--button-text-font-family);
+  font-weight: var(--button-text-font-weight);
+  color: #ffffff;
+  font-size: var(--button-text-font-size);
+  text-align: center;
+  letter-spacing: var(--button-text-letter-spacing);
+  line-height: var(--button-text-line-height);
+  font-style: var(--button-text-font-style);
+}
+.forum-diskusi {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.forum-diskusi .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 985px;
+  position: relative;
+}
+
+.forum-diskusi .text-wrapper {
+  position: absolute;
+  top: 115px;
+  left: 333px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 35px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.forum-diskusi .p {
+  position: absolute;
+  width: 1194px;
+  top: 194px;
+  left: 123px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.forum-diskusi .text-wrapper-2 {
+  position: absolute;
+  width: 1194px;
+  top: 361px;
+  left: 123px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.forum-diskusi .footer-forum-diskusi {
+  position: absolute;
+  width: 1442px;
+  height: 224px;
+  top: 761px;
+  left: 0;
+}
+
+.forum-diskusi .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 224px;
+  background-color: #08e1c5;
+}
+
+.forum-diskusi .copyright {
+  position: absolute;
+  width: 420px;
+  top: 148px;
+  left: 510px;
+  font-family: var(--text-base-leading-6-font-normal-font-family);
+  font-weight: var(--text-base-leading-6-font-normal-font-weight);
+  color: #050505;
+  font-size: var(--text-base-leading-6-font-normal-font-size);
+  text-align: center;
+  letter-spacing: var(--text-base-leading-6-font-normal-letter-spacing);
+  line-height: var(--text-base-leading-6-font-normal-line-height);
+  white-space: nowrap;
+  font-style: var(--text-base-leading-6-font-normal-font-style);
+}
+
+.forum-diskusi .group {
+  position: absolute;
+  width: 593px;
+  height: 40px;
+  top: 56px;
+  left: 424px;
+}
+
+.forum-diskusi .footers-simple-link {
+  display: flex;
+  width: 91px;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.forum-diskusi .text {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--text-base-leading-6-font-normal-font-family);
+  font-weight: var(--text-base-leading-6-font-normal-font-weight);
+  color: var(--text-black);
+  font-size: var(--text-base-leading-6-font-normal-font-size);
+  letter-spacing: var(--text-base-leading-6-font-normal-letter-spacing);
+  line-height: var(--text-base-leading-6-font-normal-line-height);
+  white-space: nowrap;
+  font-style: var(--text-base-leading-6-font-normal-font-style);
+}
+
+.forum-diskusi .div-wrapper {
+  width: 111px;
+  left: 481px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 20px;
+  position: absolute;
+  top: 0;
+}
+
+.forum-diskusi .footers-simple-link-2 {
+  width: 143px;
+  left: 338px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 20px;
+  position: absolute;
+  top: 0;
+}
+
+.forum-diskusi .footers-simple-link-3 {
+  width: 87px;
+  left: 251px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 20px;
+  position: absolute;
+  top: 0;
+}
+
+.forum-diskusi .footers-simple-link-4 {
+  width: 82px;
+  left: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 20px;
+  position: absolute;
+  top: 0;
+}
+
+.forum-diskusi .footers-simple-link-5 {
+  width: 78px;
+  left: 91px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 20px;
+  position: absolute;
+  top: 0;
+}
+
+.forum-diskusi .footer-social-links {
+  display: flex;
+  width: 229px;
+  align-items: center;
+  gap: 24px;
+  position: absolute;
+  top: 106px;
+  left: 605px;
+}
+
+.forum-diskusi .footers-social-link {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.forum-diskusi .footers-social-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.forum-diskusi .icon-discord {
+  left: 1045px;
+  position: absolute;
+  width: 130px;
+  height: 133px;
+  top: 513px;
+}
+
+.forum-diskusi .icon-whatsapp {
+  left: 661px;
+  position: absolute;
+  width: 130px;
+  height: 133px;
+  top: 513px;
+}
+
+.forum-diskusi .icon-telegram {
+  left: 270px;
+  position: absolute;
+  width: 130px;
+  height: 133px;
+  top: 513px;
+}
